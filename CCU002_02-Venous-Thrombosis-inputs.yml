@@ -1,0 +1,33 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/cerebral-ccu002_02-venous-thrombosis---secondary.py
+inputModule3:
+  class: File
+  path: python/ccu002_02-venous-thrombosis-buddchiari---secondary.py
+inputModule4:
+  class: File
+  path: python/ccu002_02-venous-thrombosis-extremity---secondary.py
+inputModule5:
+  class: File
+  path: python/ccu002_02-venous-thrombosis-embolism---secondary.py
+inputModule6:
+  class: File
+  path: python/other-ccu002_02-venous-thrombosis---secondary.py
+inputModule7:
+  class: File
+  path: python/ccu002_02-venous-thrombosis-pregnancy---secondary.py
+inputModule8:
+  class: File
+  path: python/ccu002_02-venous-thrombosis-thrombophlebitis---secondary.py
+inputModule9:
+  class: File
+  path: python/ccu002_02-venous-thrombosis-unspecified---secondary.py
+inputModule10:
+  class: File
+  path: python/ccu002_02-venous-thrombosis---secondary.py
+inputModule11:
+  class: File
+  path: python/output-cases.py
